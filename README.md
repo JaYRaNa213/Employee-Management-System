@@ -1039,18 +1039,17 @@ If you'd like to contribute to the project, please fork the repository and submi
 
 This project is licensed under the **MIT License.** See the [LICENSE](LICENSE) file for details.
 
-## Contact
 
-For any questions or issues, please contact [hoangson091104@gmail.com](mailto:hoangson091104@gmail.com).
 
 ---
 
 Thank you for checking out the **Employee Management Full-Stack Application!** Feel free to use this project for your own learning or development purposes.
 
-Created with ❤️ by [Son Nguyen](https://github.com/hoangsonww) in 2024.
+Created with ❤️ by [Jay Prakash](https://github.com/JaYRaNa123) in 2026.
 
 ---
 
 **[⬆ Back to Top](#employee-management-full-stack-application)**
-#   E m p l o y e e - M a n a g e m e n t - S y s t e m  
+#   E m p l o y e e - M a n a g e m e n t - S y s t e m 
+ 
  
